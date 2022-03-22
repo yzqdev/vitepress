@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.10326f86.js";const g='{"title":"\u8FD9\u662Fguide\u7684side1","description":"","frontmatter":{},"headers":[{"level":2,"title":"\u6D4B\u8BD5","slug":"\u6D4B\u8BD5"}],"relativePath":"guide/side1.md"}',p={},o=t("",4),e=[o];function r(c,l,u,k,i,y){return a(),s("div",null,e)}var d=n(p,[["render",r]]);export{g as __pageData,d as default};
