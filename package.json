@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "vitepress dev docs --host",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "type": "module",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.12"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  }
+}
